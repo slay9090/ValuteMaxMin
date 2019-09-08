@@ -1,0 +1,14 @@
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\bin\Debug\ValuteMaxMin.exe.config
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\bin\Debug\ValuteMaxMin.exe
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\bin\Debug\ValuteMaxMin.pdb
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.csprojResolveAssemblyReference.cache
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.exe
+C:\Users\MartynovAN\source\repos\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.pdb
+D:\project\ValuteMaxMin\ValuteMaxMin\bin\Debug\ValuteMaxMin.exe.config
+D:\project\ValuteMaxMin\ValuteMaxMin\bin\Debug\ValuteMaxMin.exe
+D:\project\ValuteMaxMin\ValuteMaxMin\bin\Debug\ValuteMaxMin.pdb
+D:\project\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.csprojAssemblyReference.cache
+D:\project\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.csproj.CoreCompileInputs.cache
+D:\project\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.exe
+D:\project\ValuteMaxMin\ValuteMaxMin\obj\Debug\ValuteMaxMin.pdb
